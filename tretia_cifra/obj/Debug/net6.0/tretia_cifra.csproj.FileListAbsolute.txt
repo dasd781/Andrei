@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\tretia_cifra.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\tretia_cifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\tretia_cifra.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\tretia_cifra.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\tretia_cifra.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\bin\Debug\net6.0\tretia_cifra.exe
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\bin\Debug\net6.0\tretia_cifra.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\bin\Debug\net6.0\tretia_cifra.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\bin\Debug\net6.0\tretia_cifra.dll
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\bin\Debug\net6.0\tretia_cifra.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\tretia_cifra.dll
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\refint\tretia_cifra.dll
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\tretia_cifra.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\tretia_cifra.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\tretia_cifra\obj\Debug\net6.0\ref\tretia_cifra.dll

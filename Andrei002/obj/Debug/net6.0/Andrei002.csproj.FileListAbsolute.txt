@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\bin\Debug\net6.0\Andrei002.exe
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\bin\Debug\net6.0\Andrei002.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\bin\Debug\net6.0\Andrei002.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\bin\Debug\net6.0\Andrei002.dll
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\bin\Debug\net6.0\Andrei002.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\Andrei002.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\Andrei002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\Andrei002.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\Andrei002.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\Andrei002.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\Andrei002.dll
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\refint\Andrei002.dll
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\Andrei002.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\Andrei002.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\Andrei002\obj\Debug\net6.0\ref\Andrei002.dll

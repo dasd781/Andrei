@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\bin\Debug\net6.0\nedele.exe
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\bin\Debug\net6.0\nedele.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\bin\Debug\net6.0\nedele.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\bin\Debug\net6.0\nedele.dll
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\bin\Debug\net6.0\nedele.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\nedele.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\nedele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\nedele.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\nedele.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\nedele.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\nedele.dll
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\refint\nedele.dll
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\nedele.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\nedele.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\nedele\obj\Debug\net6.0\ref\nedele.dll

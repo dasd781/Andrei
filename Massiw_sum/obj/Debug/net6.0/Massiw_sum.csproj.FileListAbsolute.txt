@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\bin\Debug\net6.0\Massiw_sum.exe
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\bin\Debug\net6.0\Massiw_sum.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\bin\Debug\net6.0\Massiw_sum.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\bin\Debug\net6.0\Massiw_sum.dll
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\bin\Debug\net6.0\Massiw_sum.pdb
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\Massiw_sum.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\Massiw_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\Massiw_sum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\Massiw_sum.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\Massiw_sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\Massiw_sum.dll
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\refint\Massiw_sum.dll
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\Massiw_sum.pdb
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\Massiw_sum.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\Massiw_sum\obj\Debug\net6.0\ref\Massiw_sum.dll

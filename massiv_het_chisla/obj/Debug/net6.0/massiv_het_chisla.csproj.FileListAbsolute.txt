@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\bin\Debug\net6.0\massiv_het_chisla.exe
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\bin\Debug\net6.0\massiv_het_chisla.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\bin\Debug\net6.0\massiv_het_chisla.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\bin\Debug\net6.0\massiv_het_chisla.dll
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\bin\Debug\net6.0\massiv_het_chisla.pdb
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\massiv_het_chisla.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\massiv_het_chisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\massiv_het_chisla.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\massiv_het_chisla.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\massiv_het_chisla.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\massiv_het_chisla.dll
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\refint\massiv_het_chisla.dll
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\massiv_het_chisla.pdb
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\massiv_het_chisla.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\massiv_het_chisla\obj\Debug\net6.0\ref\massiv_het_chisla.dll

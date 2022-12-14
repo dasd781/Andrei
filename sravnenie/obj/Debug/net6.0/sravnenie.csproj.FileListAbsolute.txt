@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\bin\Debug\net6.0\sravnenie.exe
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\bin\Debug\net6.0\sravnenie.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\bin\Debug\net6.0\sravnenie.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\bin\Debug\net6.0\sravnenie.dll
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\bin\Debug\net6.0\sravnenie.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\sravnenie.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\sravnenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\sravnenie.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\sravnenie.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\sravnenie.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\sravnenie.dll
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\refint\sravnenie.dll
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\sravnenie.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\sravnenie.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\sravnenie\obj\Debug\net6.0\ref\sravnenie.dll

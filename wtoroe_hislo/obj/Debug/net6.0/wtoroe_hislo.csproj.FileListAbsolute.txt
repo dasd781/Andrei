@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\bin\Debug\net6.0\wtoroe_hislo.exe
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\bin\Debug\net6.0\wtoroe_hislo.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\bin\Debug\net6.0\wtoroe_hislo.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\bin\Debug\net6.0\wtoroe_hislo.dll
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\bin\Debug\net6.0\wtoroe_hislo.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\wtoroe_hislo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\wtoroe_hislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\wtoroe_hislo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\wtoroe_hislo.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\wtoroe_hislo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\wtoroe_hislo.dll
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\refint\wtoroe_hislo.dll
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\wtoroe_hislo.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\wtoroe_hislo.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\wtoroe_hislo\obj\Debug\net6.0\ref\wtoroe_hislo.dll

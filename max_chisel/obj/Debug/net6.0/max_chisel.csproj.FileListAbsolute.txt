@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\bin\Debug\net6.0\max_chisel.exe
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\bin\Debug\net6.0\max_chisel.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\bin\Debug\net6.0\max_chisel.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\bin\Debug\net6.0\max_chisel.dll
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\bin\Debug\net6.0\max_chisel.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\max_chisel.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\max_chisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\max_chisel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\max_chisel.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\max_chisel.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\max_chisel.dll
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\refint\max_chisel.dll
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\max_chisel.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\max_chisel.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\max_chisel\obj\Debug\net6.0\ref\max_chisel.dll

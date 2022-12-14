@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\bin\Debug\net6.0\summa_V_hisle.exe
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\bin\Debug\net6.0\summa_V_hisle.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\bin\Debug\net6.0\summa_V_hisle.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\bin\Debug\net6.0\summa_V_hisle.dll
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\bin\Debug\net6.0\summa_V_hisle.pdb
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\summa_V_hisle.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\summa_V_hisle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\summa_V_hisle.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\summa_V_hisle.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\summa_V_hisle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\summa_V_hisle.dll
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\refint\summa_V_hisle.dll
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\summa_V_hisle.pdb
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\summa_V_hisle.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\summa_V_hisle\obj\Debug\net6.0\ref\summa_V_hisle.dll

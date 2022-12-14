@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\bin\Debug\net6.0\pr_funck.exe
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\bin\Debug\net6.0\pr_funck.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\bin\Debug\net6.0\pr_funck.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\bin\Debug\net6.0\pr_funck.dll
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\bin\Debug\net6.0\pr_funck.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\pr_funck.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\pr_funck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\pr_funck.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\pr_funck.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\pr_funck.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\pr_funck.dll
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\refint\pr_funck.dll
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\pr_funck.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\pr_funck.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\pr_funck\obj\Debug\net6.0\ref\pr_funck.dll

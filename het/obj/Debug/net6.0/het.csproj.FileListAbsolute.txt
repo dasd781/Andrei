@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\het\bin\Debug\net6.0\het.exe
+C:\Users\user\Desktop\C_urokk\Andrei\het\bin\Debug\net6.0\het.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\het\bin\Debug\net6.0\het.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\het\bin\Debug\net6.0\het.dll
+C:\Users\user\Desktop\C_urokk\Andrei\het\bin\Debug\net6.0\het.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\het.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\het.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\het.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\het.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\het.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\het.dll
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\refint\het.dll
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\het.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\het.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\het\obj\Debug\net6.0\ref\het.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\text_zamena.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\text_zamena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\text_zamena.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\text_zamena.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\text_zamena.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\bin\Debug\net6.0\text_zamena.exe
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\bin\Debug\net6.0\text_zamena.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\bin\Debug\net6.0\text_zamena.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\bin\Debug\net6.0\text_zamena.dll
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\bin\Debug\net6.0\text_zamena.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\text_zamena.dll
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\refint\text_zamena.dll
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\text_zamena.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\text_zamena.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\text_zamena\obj\Debug\net6.0\ref\text_zamena.dll

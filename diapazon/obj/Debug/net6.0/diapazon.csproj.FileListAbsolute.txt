@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\bin\Debug\net6.0\diapazon.exe
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\bin\Debug\net6.0\diapazon.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\bin\Debug\net6.0\diapazon.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\bin\Debug\net6.0\diapazon.dll
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\bin\Debug\net6.0\diapazon.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\diapazon.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\diapazon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\diapazon.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\diapazon.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\diapazon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\diapazon.dll
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\refint\diapazon.dll
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\diapazon.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\diapazon.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\diapazon\obj\Debug\net6.0\ref\diapazon.dll

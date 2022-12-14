@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\bin\Debug\net6.0\Vivod_massiva.exe
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\bin\Debug\net6.0\Vivod_massiva.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\bin\Debug\net6.0\Vivod_massiva.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\bin\Debug\net6.0\Vivod_massiva.dll
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\bin\Debug\net6.0\Vivod_massiva.pdb
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\Vivod_massiva.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\Vivod_massiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\Vivod_massiva.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\Vivod_massiva.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\Vivod_massiva.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\Vivod_massiva.dll
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\refint\Vivod_massiva.dll
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\Vivod_massiva.pdb
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\Vivod_massiva.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\Vivod_massiva\obj\Debug\net6.0\ref\Vivod_massiva.dll

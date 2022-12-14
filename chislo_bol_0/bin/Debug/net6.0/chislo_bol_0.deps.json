@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "chislo_bol_0/1.0.0": {
+        "runtime": {
+          "chislo_bol_0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chislo_bol_0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

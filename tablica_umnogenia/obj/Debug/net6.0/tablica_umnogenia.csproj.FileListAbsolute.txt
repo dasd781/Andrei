@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\C_urokk\Andrei\tablica_umnogenia\obj\Debug\net6.0\tablica_umnogenia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\tablica_umnogenia\obj\Debug\net6.0\tablica_umnogenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\tablica_umnogenia\obj\Debug\net6.0\tablica_umnogenia.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\tablica_umnogenia\obj\Debug\net6.0\tablica_umnogenia.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\tablica_umnogenia\obj\Debug\net6.0\tablica_umnogenia.csproj.CoreCompileInputs.cache

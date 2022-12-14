@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\bin\Debug\net6.0\cikl_A_B.exe
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\bin\Debug\net6.0\cikl_A_B.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\bin\Debug\net6.0\cikl_A_B.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\bin\Debug\net6.0\cikl_A_B.dll
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\bin\Debug\net6.0\cikl_A_B.pdb
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\cikl_A_B.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\cikl_A_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\cikl_A_B.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\cikl_A_B.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\cikl_A_B.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\cikl_A_B.dll
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\refint\cikl_A_B.dll
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\cikl_A_B.pdb
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\cikl_A_B.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\cikl_A_B\obj\Debug\net6.0\ref\cikl_A_B.dll

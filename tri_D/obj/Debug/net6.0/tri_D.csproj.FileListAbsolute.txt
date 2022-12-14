@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\bin\Debug\net6.0\tri_D.exe
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\bin\Debug\net6.0\tri_D.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\bin\Debug\net6.0\tri_D.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\bin\Debug\net6.0\tri_D.dll
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\bin\Debug\net6.0\tri_D.pdb
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\tri_D.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\tri_D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\tri_D.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\tri_D.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\tri_D.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\tri_D.dll
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\refint\tri_D.dll
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\tri_D.pdb
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\tri_D.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\tri_D\obj\Debug\net6.0\ref\tri_D.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\SummaA.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\SummaA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\SummaA.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\SummaA.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\SummaA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\bin\Debug\net6.0\SummaA.exe
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\bin\Debug\net6.0\SummaA.deps.json
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\bin\Debug\net6.0\SummaA.runtimeconfig.json
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\bin\Debug\net6.0\SummaA.dll
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\bin\Debug\net6.0\SummaA.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\SummaA.dll
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\refint\SummaA.dll
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\SummaA.pdb
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\SummaA.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urokk\Andrei\SummaA\obj\Debug\net6.0\ref\SummaA.dll

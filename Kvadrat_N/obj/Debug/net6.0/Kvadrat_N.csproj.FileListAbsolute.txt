@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\bin\Debug\net6.0\Kvadrat_N.exe
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\bin\Debug\net6.0\Kvadrat_N.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\bin\Debug\net6.0\Kvadrat_N.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\bin\Debug\net6.0\Kvadrat_N.dll
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\bin\Debug\net6.0\Kvadrat_N.pdb
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\Kvadrat_N.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\Kvadrat_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\Kvadrat_N.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\Kvadrat_N.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\Kvadrat_N.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\Kvadrat_N.dll
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\refint\Kvadrat_N.dll
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\Kvadrat_N.pdb
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\Kvadrat_N.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\Kvadrat_N\obj\Debug\net6.0\ref\Kvadrat_N.dll
