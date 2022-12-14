@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sum_element_Dva_mas/1.0.0": {
+        "runtime": {
+          "sum_element_Dva_mas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sum_element_Dva_mas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

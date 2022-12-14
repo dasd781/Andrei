@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\bin\Debug\net6.0\sum_element_Dva_mas.exe
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\bin\Debug\net6.0\sum_element_Dva_mas.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\bin\Debug\net6.0\sum_element_Dva_mas.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\bin\Debug\net6.0\sum_element_Dva_mas.dll
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\bin\Debug\net6.0\sum_element_Dva_mas.pdb
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\sum_element_Dva_mas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\sum_element_Dva_mas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\sum_element_Dva_mas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\sum_element_Dva_mas.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\sum_element_Dva_mas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\sum_element_Dva_mas.dll
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\refint\sum_element_Dva_mas.dll
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\sum_element_Dva_mas.pdb
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\sum_element_Dva_mas.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\sum_element_Dva_mas\obj\Debug\net6.0\ref\sum_element_Dva_mas.dll
