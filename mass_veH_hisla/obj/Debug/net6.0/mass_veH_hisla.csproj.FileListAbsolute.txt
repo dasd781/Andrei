@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\bin\Debug\net6.0\mass_veH_hisla.exe
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\bin\Debug\net6.0\mass_veH_hisla.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\bin\Debug\net6.0\mass_veH_hisla.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\bin\Debug\net6.0\mass_veH_hisla.dll
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\bin\Debug\net6.0\mass_veH_hisla.pdb
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\mass_veH_hisla.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\mass_veH_hisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\mass_veH_hisla.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\mass_veH_hisla.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\mass_veH_hisla.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\mass_veH_hisla.dll
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\refint\mass_veH_hisla.dll
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\mass_veH_hisla.pdb
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\mass_veH_hisla.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\mass_veH_hisla\obj\Debug\net6.0\ref\mass_veH_hisla.dll
