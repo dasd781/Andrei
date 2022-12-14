@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\bin\Debug\net6.0\wod_dwumer_mas.exe
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\bin\Debug\net6.0\wod_dwumer_mas.deps.json
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\bin\Debug\net6.0\wod_dwumer_mas.runtimeconfig.json
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\bin\Debug\net6.0\wod_dwumer_mas.dll
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\bin\Debug\net6.0\wod_dwumer_mas.pdb
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\wod_dwumer_mas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\wod_dwumer_mas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\wod_dwumer_mas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\wod_dwumer_mas.AssemblyInfo.cs
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\wod_dwumer_mas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\wod_dwumer_mas.dll
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\refint\wod_dwumer_mas.dll
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\wod_dwumer_mas.pdb
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\wod_dwumer_mas.genruntimeconfig.cache
+C:\Users\user\Desktop\C_urok\Andrei\wod_dwumer_mas\obj\Debug\net6.0\ref\wod_dwumer_mas.dll
